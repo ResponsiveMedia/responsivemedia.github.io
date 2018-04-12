@@ -3,8 +3,9 @@
 Combining the worlds first secure peer to peer voice video plugin with, the worlds first cross-platform HTML5 iframe banner ads, open.h264, LXC/Docker/Kubernetes Containerization, for the ultimate opt-in value ad. 
 
 Features:
- ☑Built to meet stringent security guidelines and conform to Google CEO Eric Schmidt's open letter/request to developers (prior to asking for patents 2015)
- ☑webrtc chat w/add-this style social integration
+
+* ☑Built to meet stringent security guidelines and conform to Google CEO Eric Schmidt's open letter/request to developers (prior to asking for patents 2015)
+* ☑webrtc chat w/add-this style social integration
  ☑bold 250-280px tall iframe ad placement, with full html5 connectivity
  ☑highest in class feedback rate
  ☑lowest cost per visit
