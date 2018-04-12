@@ -6,20 +6,20 @@ Features:
 
 * ☑Built to meet stringent security guidelines and conform to Google CEO Eric Schmidt's open letter/request to developers (prior to asking for patents 2015)
 * ☑webrtc chat w/add-this style social integration
- ☑bold 250-280px tall iframe ad placement, with full html5 connectivity
- ☑highest in class feedback rate
- ☑lowest cost per visit
- ☑consumer ad wallet (AdCloud) for portability and design independence 
- ☑banner ads (Responsive Media)
- ☑solves the future 2017 ad burnout & rejection by rethinking fundamental criteria for display.
+* ☑bold 250-280px tall iframe ad placement, with full html5 connectivity
+* ☑highest in class feedback rate
+* ☑lowest cost per visit
+* ☑consumer ad wallet (AdCloud) for portability and design independence 
+* ☑banner ads (Responsive Media)
+* ☑solves the future 2017 ad burnout & rejection by rethinking fundamental criteria for display.
 
 Built as a gift for my partner and friend Charles Lloyd who more than anyone on earth knows the value of such a network, with nothing more than a splash page and a toolbar, for he alone would know the value of fixing the fundamental problems inherent within the industry we together have had a monopoly on. 
 
- ☑The consent of Google, in the form of likely partnership and buyout
- ☑The expression permission of and/or precedent of rewriting search results page on Google
- ☑the lack of intrinsic value offered by the add-on
- ☑lack of 3rd party credibility
- ☑Patent and patentability
+* ☑The consent of Google, in the form of likely partnership and buyout
+* ☑The expression permission of and/or precedent of rewriting search results page on Google
+* ☑the lack of intrinsic value offered by the add-on
+* ☑lack of 3rd party credibility
+* ☑Patent and patentability
 
 Brainstorming the likely startups beginning with simple apps made possible by new technology, the ease with which people are impressed and willing to fund has resulted in a short list of 50 low cost fundable startups that an be launched immediately with a small crew managed in person internationally by Ray. From Federated Identity Proxies, to Cloud IDE's, to Emoji oriented domain search and registrars, to hands-free voice-free device EEG Brain Driven UX (yes, drive or move a cursor by thinking), Cloud PBX with call recording and transcription and sentiment analyses, Voice Secured account access, WebRTC Conferencing, Banner Design templating and storage with recommendation and specs  for IAB, (much of which has already been done), solves 3rd party credibility in that as an incubator for throwing as many at the wall until happy with the stick count, each one ini its own rate as a failure even would be 1000x more real and more powerful as credibility than anything done before. Thus if I'm at all wrong about the viability of the market in any of those cases, we still win because such trash would be a treasure trove of credibility for to the keywords platform. And very real. As it happens, down to the name (adPush), and exact same open-source (codeanywhere, nitrous.io slapping a logo on cloud9), (cloudyvbx and 5 others using openvbx fully licensed for reuse which by others were sold for $50 million to cisco the same year, or the broadsoft 1.9 billion, etc.) as opposed to past attempts to find time to make a supporting page, or relying on client reference is replaced by tremendous opportunity. 
 
